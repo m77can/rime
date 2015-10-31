@@ -8,4 +8,3 @@ import_tables:
   - luna_pinyin.hanyu
   - luna_pinyin.poetry
   - luna_pinyin.cn_en
-  - emoji

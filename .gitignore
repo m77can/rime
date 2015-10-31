@@ -5,3 +5,5 @@
 /sync
 *.bin
 .DS_Store
+stroke*
+cangjie*
