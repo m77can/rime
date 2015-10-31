@@ -1,0 +1,67 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	60
+#@/user_id	135f6d0a-c807-4786-aadc-39ac718148ff
+a 	啊	c=1 d=0.961214 t=60
+a tou ming 	啊透明	c=1 d=0.923116 t=60
+an 	按	c=0 d=0.088692 t=60
+an jian 	按鍵	c=1 d=0.913931 t=60
+an kong ge 	按空格	c=1 d=0.891366 t=60
+an pai 	安排	c=0 d=0.0873716 t=60
+an pai bu 	安排不	c=1 d=0.878095 t=60
+bai du 	百度	c=1 d=0.767206 t=60
+bi ji 	筆記	c=1 d=0.778801 t=60
+bi li 	比例	c=0 d=0.0869358 t=60
+bi li bi li 	比例比例	c=1 d=0.873716 t=60
+bu 	不	c=0 d=0.0873716 t=60
+cha jian 	插件	c=1 d=0.946485 t=60
+cheng 	成	c=1 d=0.806541 t=60
+cheng xu 	程序	c=1 d=0.814647 t=60
+ci ku 	詞庫	c=1 d=1 t=60
+de 	的	c=2 d=1.87883 t=60
+duo hang 	多行	c=2 d=1.70431 t=60
+he 	和	c=1 d=0.960789 t=60
+hei 	黑	c=1 d=0.790571 t=60
+hui 	會	c=1 d=0.826959 t=60
+ke dou wen 	蝌蚪文	c=0 d=0.0806541 t=60
+kong ge 	空格	c=0 d=0.088692 t=60
+le 	了	c=1 d=0.980199 t=60
+lei si 	類似	c=1 d=0.918512 t=60
+ma ren 	罵人	c=0 d=0.0806541 t=60
+ma ren ke dou wen ni 	罵人蝌蚪文你	c=1 d=0.810584 t=60
+na ge 	哪個	c=1 d=0.909373 t=60
+ni 	你	c=0 d=0.0806541 t=60
+pei zhi 	配置	c=3 d=2.74733 t=60
+pian yi 	偏移	c=1 d=0.843665 t=60
+ping guo 	蘋果	c=1 d=0.794534 t=60
+ru 	如	c=1 d=1.05402 t=60
+ru he 	如何	c=1 d=0.88692 t=60
+she ji 	設計	c=1 d=0.831104 t=60
+shi 	是	c=1 d=0.904837 t=60
+shu xu guan 	鼠鬚管	c=5 d=4.4668 t=60
+tian jia 	添加	c=1 d=0.99005 t=60
+tiao jiao 	調教	c=1 d=0.774916 t=60
+tou ming 	透明	c=0 d=0.0918512 t=60
+wang ye 	網頁	c=1 d=0.798516 t=60
+wen ti 	問題	c=1 d=0.782705 t=60
+wo 	我	c=1 d=0.965605 t=60
+wu yu 	無語	c=1 d=0.97531 t=60
+xian shi 	顯示	c=2 d=1.87897 t=60
+xiao lang hao 	小狼毫	c=1 d=0.882497 t=60
+xuan zhong 	選中	c=1 d=0.900325 t=60
+xue 	學	c=1 d=0.822835 t=60
+yan se 	顏色	c=1 d=0.932394 t=60
+yang 	樣	c=1 d=0.865022 t=60
+ying wen 	英文	c=1 d=0.995012 t=60
+you dian 	有點	c=1 d=0.970446 t=60
+you yi 	右移	c=1 d=0.852144 t=60
+yuan 	員	c=1 d=0.818731 t=60
+yuan lai 	原來	c=0 d=0.0980199 t=60
+yuan lai ru 	原來如	c=1 d=0.985112 t=60
+zen me 	怎麼	c=1 d=0.860708 t=60
+zheng hang 	整行	c=1 d=0.839457 t=60
+zhi jie 	直接	c=1 d=0.895834 t=60
+zhong 	中	c=1 d=0.83527 t=60
+zhuan huan 	轉換	c=1 d=0.802519 t=60
