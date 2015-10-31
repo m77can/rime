@@ -1,5 +1,5 @@
 name: m77can
-version: "2015.1.10"
+version: "2015.10.31"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -8,3 +8,4 @@ import_tables:
   - luna_pinyin.hanyu
   - luna_pinyin.poetry
   - luna_pinyin.cn_en
+  - emoji

@@ -1,12 +1,13 @@
 patch:
-     menu/page_size: 9      #这是之前增加的候选词数量，可以看见“patch：”只能有一个的意思了。
-     schema_list:           #“输入选单”中激活的输入方案定义。
-     #   - schema: terra_pinyin
-         - schema: luna_pinyin
-         - schema: emoji
-         - schema: luna_pinyin_fluency
-     #   - schema: double_pinyin_mspy
-         - schema: luna_pinyin_simp
-     #   - schema: bopomofo
-         - schema: double_pinyin_flypy 
-    
+    menu/page_size: 7      #这是之前增加的候选词数量，可以看见“patch：”只能有一个的意思了。
+    schema_list:           #“输入选单”中激活的输入方案定义。
+        - schema: luna_pinyin
+        - schema: emoji
+        - schema: luna_pinyin_fluency
+        - schema: luna_pinyin_simp
+       # - schema: double_pinyin_abc
+    switcher/caption: "〔输入选择〕"
+    switcher/hotkeys:
+        - "Control+grave"
+        - "Control+Shift+grave"
+        - F4
