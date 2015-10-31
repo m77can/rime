@@ -5,7 +5,7 @@ custom_phrase:
   enable_sentence: false
   initial_quality: 1
   user_dict: custom_phrase
-customization: 495035688
+customization: 847224894
 engine:
   filters:
     - simplifier
@@ -84,7 +84,7 @@ schema:
     
   name: "朙月拼音·語句流"
   schema_id: luna_pinyin_fluency
-  version: 0.25.custom.495035688
+  version: 0.25.custom.847224894
 speller:
   algebra:
     - "xform/^([b-df-hj-np-tv-z])$/$1_/"
@@ -105,7 +105,7 @@ speller:
   delimiter: " '"
 switches:
   - name: ascii_mode
-    reset: 0
+    reset: 1
     states: ["中文", "西文"]
   - name: full_shape
     states: ["半角", "全角"]

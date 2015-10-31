@@ -5,7 +5,7 @@ custom_phrase:
   enable_sentence: false
   initial_quality: 1
   user_dict: custom_phrase
-customization: 495035688
+customization: 847224894
 engine:
   filters:
     - simplifier
@@ -75,7 +75,7 @@ schema:
     
   name: "朙月拼音·简化字"
   schema_id: luna_pinyin_simp
-  version: 0.22.custom.495035688
+  version: 0.22.custom.847224894
 simplifier:
   option_name: zh_simp
 speller:
@@ -98,7 +98,7 @@ speller:
   delimiter: " '"
 switches:
   - name: ascii_mode
-    reset: 0
+    reset: 1
     states: ["中文", "西文"]
   - name: full_shape
     states: ["半角", "全角"]
