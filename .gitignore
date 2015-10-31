@@ -3,4 +3,5 @@
 /luna_pinyin.userdb
 /m77can.userdb
 /sync
-/*.bin
+*.bin
+.DS_Store
