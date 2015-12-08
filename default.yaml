@@ -6,9 +6,9 @@ ascii_composer:
     Control_R: noop
     Eisu_toggle: clear
     Shift_L: commit_code
-    Shift_R: commit_text
-config_version: 0.36.custom.189458496
-customization: 189458496
+    Shift_R: commit_code
+config_version: 0.36.custom.1331810162
+customization: 1331810162
 key_binder:
   bindings:
     - {accept: "Control+p", send: Up, when: composing}

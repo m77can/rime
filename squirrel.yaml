@@ -14,8 +14,8 @@ app_options:
     ascii_mode: true
     no_inline: true
 chord_duration: 0.1
-config_version: 0.22.custom.606913916
-customization: 606913916
+config_version: 0.22.custom.798630826
+customization: 798630826
 preset_color_schemes:
   aqua:
     author: "佛振 <chen.sst@gmail.com>"
@@ -157,7 +157,7 @@ style:
   border_width: 1
   candidate_format: "%c   %@       "
   color_scheme: black_white
-  corner_radius: 1
+  corner_radius: 4
   font_point: 18
   horizontal: false
   inline_preedit: false
