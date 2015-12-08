@@ -1,11 +1,11 @@
 var:
   option:
     simplification: true
-  previously_selected_schema: luna_pinyin
+  previously_selected_schema: luna_pinyin_simp
   schema_access_time:
     double_pinyin_abc: 1446303294
     double_pinyin_flypy: 1446303039
-    emoji: 1446307534
-    luna_pinyin: 1446307624
+    emoji: 1446433997
+    luna_pinyin: 1446366153
     luna_pinyin_fluency: 1446288394
-    luna_pinyin_simp: 1446303401
+    luna_pinyin_simp: 1447139432

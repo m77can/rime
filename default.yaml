@@ -5,10 +5,10 @@ ascii_composer:
     Control_L: noop
     Control_R: noop
     Eisu_toggle: clear
-    Shift_L: inline_ascii
+    Shift_L: commit_code
     Shift_R: commit_text
-config_version: 0.36.custom.1900563066
-customization: 1900563066
+config_version: 0.36.custom.2067856189
+customization: 2067856189
 key_binder:
   bindings:
     - {accept: "Control+p", send: Up, when: composing}
