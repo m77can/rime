@@ -14,8 +14,8 @@ app_options:
     ascii_mode: true
     no_inline: true
 chord_duration: 0.1
-config_version: 0.22.custom.798630826
-customization: 798630826
+config_version: 0.22.custom.420289248
+customization: 420289248
 preset_color_schemes:
   aqua:
     author: "佛振 <chen.sst@gmail.com>"
@@ -56,7 +56,7 @@ preset_color_schemes:
     back_color: 0xeeeeee
     border_height: 6
     border_width: 6
-    candidate_format: "%c %@ "
+    candidate_format: "%c  %@     "
     candidate_text_color: 0x000000
     comment_text_color: 0x808080
     corner_radius: 6
@@ -65,7 +65,6 @@ preset_color_schemes:
     hilited_candidate_label_color: 0xa0c98915
     hilited_candidate_text_color: 0xc98915
     hilited_text_color: 0x000000
-    horizontal: true
     label_color: 0x888888
     label_font_point: 12
     name: "简约白／Clean White"
@@ -151,15 +150,15 @@ preset_color_schemes:
     name: "星際我爭霸／StarCraft"
     text_color: 0xccaa88
 show_notifications_via_notification_center: false
-show_notifications_when: appropriate
+show_notifications_when: always
 style:
   border_height: 1
   border_width: 1
-  candidate_format: "%c   %@       "
+  candidate_format: "%c  %@      "
   color_scheme: black_white
   corner_radius: 4
-  font_point: 18
+  font_point: 20
   horizontal: false
-  inline_preedit: false
-  label_font_point: 18
+  inline_preedit: true
+  label_font_point: 20
 us_keyboard_layout: false

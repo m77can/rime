@@ -1,18 +1,18 @@
 patch:
-  show_notifications_when: appropriate  # 状态通知，适当(appropriate)，开（always）关（never）
+  show_notifications_when: always # 状态通知，适当(appropriate)，开（always）关（never）
 
   style:
     color_scheme: black_white
     horizontal: false  # 垂直排列
-    inline_preedit: false #false双行显示
-    candidate_format: "%c   %@       "  # 编号 %c 和候选词 %@ 前后的空间
+    inline_preedit: true #false双行显示
+    candidate_format: "%c  %@      "  # 编号 %c 和候选词 %@ 前后的空间
     corner_radius: 4
     border_height: 1
     border_width: 1
-    font_point: 18  #候选字词大小
+    font_point: 20  #候选字词大小
   # font_face: "PingFangSC-Regular"  #候选词字体
   # label_font_face: "PingFangSC-Light"   #候选词编号字体
-    label_font_point: 18   #候选编号大小
+    label_font_point: 20   #候选编号大小
   preset_color_schemes:
     black_white:
       name: 黑白
@@ -54,7 +54,7 @@ patch:
       back_color: 0xeeeeee
       border_height: 6
       border_width: 6
-      candidate_format: "%c %@ "
+      candidate_format: "%c  %@     "
       candidate_text_color: 0x000000
       comment_text_color: 0x808080
       corner_radius: 6
@@ -63,7 +63,7 @@ patch:
       hilited_candidate_label_color: 0xa0c98915
       hilited_candidate_text_color: 0xc98915
       hilited_text_color: 0x000000
-      horizontal: true
+      #horizontal: true
       label_color: 0x888888
       label_font_point: 12
       name: "简约白／Clean White"
